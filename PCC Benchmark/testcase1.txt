@@ -1,0 +1,15 @@
+PCC problem_1
+
+Number of parameters: 2
+
+Fitting function:
+	y = b_1 * x^(b_2)
+	
+Data:
+	x=[20,25,27,30,35,38.5] 
+	y=[4.62e-8,1.02e-7,1.27e-7,2.14e-7,3.56e-7,4.69e-7]
+	
+Best solution so far:
+	Obj. value = 5.938663E-16
+	b_1 = 1.59002014E-12
+	b_2 = 3.45494899

@@ -1,0 +1,31 @@
+PCC problem_4
+
+Number of parameters: 6
+
+Fitting function:
+	y = p_1 * p_2^x * (x + p_3)^(p_4) + (p_5 * x) / (1 + p_6 * x)
+	
+Data:
+	x = [0,2,4,6,8,10];
+	y = [0.0242,0.2792,0.1386,0.0238,0.0034,0.002];
+
+	
+Best solution so far (two optimal solutions):
+
+Solution 1:
+	Obj. value = 1.5306075E-26
+	p_1 = 0.0022116
+	p_2 = -0.1282624
+	p_3 = 1.385715
+	p_4 = 7.33447
+	p_5 = 8.57023E-5
+	p_6 = -0.0536963
+	
+Solution 2:
+	Obj. value = 1.5306075E-26
+	p_1 = 0.0022116
+	p_2 = 0.1282624
+	p_3 = 1.385715
+	p_4 = 7.33447
+	p_5 = 8.57023E-5
+	p_6 = -0.0536963 

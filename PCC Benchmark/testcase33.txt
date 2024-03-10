@@ -1,0 +1,21 @@
+PCC problem_33
+
+Number of parameters: 5
+
+Fitting function:
+	y = (b_1 * b_2 - b_3 * exp(b_1 - b_4 * x) + (b_2 * b_3) / x)^(b_5)
+
+Data:
+	x=[1,2,4,6,8];
+	y=[100,140,160,170,175];
+	
+	
+Best solution so far:
+	Obj. value = 5.16987E-26 
+	b_1 = 17.752587
+	b_2 = 27534771.2015618
+	b_3 = -34.57000754
+	b_4 = 1.25216863
+	b_5 = 0.26178963 
+		
+	
