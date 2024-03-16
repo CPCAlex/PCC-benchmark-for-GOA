@@ -1,4 +1,4 @@
-"# PCC-benchmark-for-GOA" 
+"# PCC-benchmark-for-Global-Optimal-Algorithms" 
 
 PCC benchmark is a new proposed test set especially for optimization problems in the field of nonlinear cruve fitting.
 
